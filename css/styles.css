@@ -90,6 +90,12 @@ a {
   margin: auto;
 }
 
+.address-list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
 .address-item-link {
   display: block;
   padding: 24px 0;
