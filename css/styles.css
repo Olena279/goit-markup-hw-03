@@ -117,9 +117,6 @@ a {
 }
 .main-solutions {
   background-color: #2e2f42;
-}
-
-.main-container {
   padding-top: 188px;
   padding-bottom: 188px;
 }
@@ -169,7 +166,7 @@ a {
   overflow: hidden;
 }
 
-.features-container {
+.features {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -203,13 +200,10 @@ a {
   letter-spacing: 0.02em;
 }
 
-.team-container {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
-
 .team {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .team-list {
@@ -240,7 +234,7 @@ a {
   text-align: center;
 }
 
-.portfolio-container {
+.portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -257,14 +251,13 @@ a {
 }
 
 .portfolio-content {
-  padding: 32px 0;
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .footer {
   background-color: #2e2f42;
-}
-
-.footer-container {
   padding-top: 100px;
   padding-bottom: 100px;
 }
